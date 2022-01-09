@@ -28,10 +28,15 @@
 
 ##
 
+<div align="center">
+  
+![Snake animation](https://github.com/luishperna/luishperna/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 ##
 
-<h3 align="center">Contatos</h1>
+<h3 align="center">Contatos:</h3><br>
   
 <div align="center"> 
   <a href="https://www.instagram.com/o_luis.henrique/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
