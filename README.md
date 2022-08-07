@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="180em" alt="Boas Vindas! Você está acessando o perfil de luishperna" src="https://user-images.githubusercontent.com/96630233/183275099-42b4214b-fc74-4dad-b98c-188f15cec5cb.png"/>
+  <img alt="Boas Vindas! Você está acessando o perfil de luishperna" src="https://user-images.githubusercontent.com/96630233/183275248-3515d424-330c-4dcc-8b8b-e1f00932dfef.png"/>
 </div>
 
 <h3 align="center">Olá! Sou o Luís Henrique, prazer em tê-lo aqui.</h3>
