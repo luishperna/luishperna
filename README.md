@@ -7,7 +7,7 @@
 
 ##
 
-<h3 align="center">:octocat: GitHub Stats :octocat:</h3>
+<h3 align="center">:octocat: GitHub Stats :octocat:</h3><br>
 
 <div align="center">
   <a href="https://github.com/luishperna">
@@ -20,9 +20,7 @@
 <h3 align="center">:snake: Snake Animation :snake:</h3>
 
 <div align="center">
-  
-![Snake animation](https://github.com/luishperna/luishperna/blob/output/github-contribution-grid-snake.svg)
-  
+ <img alt="Snake Animation" src="https://github.com/luishperna/luishperna/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
 ##
