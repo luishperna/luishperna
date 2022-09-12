@@ -2,8 +2,10 @@
   <img alt="Boas Vindas! Você está acessando o perfil de luishperna" src="https://user-images.githubusercontent.com/96630233/183275248-3515d424-330c-4dcc-8b8b-e1f00932dfef.png"/>
 </div>
 
-<h3 align="center">Olá! Sou o Luís Henrique, prazer em tê-lo aqui.</h3>
-<h3 align="center">💻 Estou ingressando no universo da programação 💻</h3>
+<h3 align="center">Olá! Sou o Luís Henrique, é um prazer ter você aqui.</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=55EAAB&width=435&lines=C%3A%5C%3E+Ingressando+em+programa%C3%A7%C3%A3o.exe;C%3A%5C%3E+Engenharia+de+Software.exe;C%3A%5C%3E+Desenvolvedor+de+Software.exe" alt="Typing SVG" /></a>
+</div>
 
 ##
 
