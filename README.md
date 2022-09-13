@@ -12,8 +12,8 @@
 - [x] Criar meu [Website - Portfólio](https://luishperna.com.br/)
 - [X] Desenvolver uma [API](https://github.com/luishperna/registros_funcionarios_api)
 - [X] Elaborar uma [Documentação de Software](https://github.com/luishperna/registros_funcionarios_api_docs)
-- [ ] Desenvolver um Website para Consumir minha API.
-- [ ] Criar meu Blog.
+- [ ] Desenvolver um Website para Consumir minha API
+- [ ] Criar meu Blog
 
 ##
 
