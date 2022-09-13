@@ -28,7 +28,7 @@
 
 ##
 
-<h3 align="center"> :running: Determinação :running:</h3><br>
+<h3 align="center">:running: Determinação :running:</h3><br>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=luishperna&theme=gotham&hide_border=false&area=true)
 
