@@ -6,6 +6,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=55EAAB&size=25&center=true&vCenter=true&width=1000&lines=C%3A%5C%3Ecd+Engenharia+de+Software;C%3A%5C%3Estart+desenvolvedor-de-software.exe)](https://git.io/typing-svg)
 
+<h3 align="center">:dart: Minhas metas de 2022 :dart:</h3>
+
+<img align="right" width="160" height="160" src="https://user-images.githubusercontent.com/96630233/189785817-bb3a96b1-a06d-44aa-8dbd-8135103246dc.gif">
+
+- [x] Adquirir um domínio | luishperna.com.br
+- [x] Criar meu [Website - Portfólio](https://luishperna.com.br/)
+- [X] Desenvolver uma [API](https://github.com/luishperna/registros_funcionarios_api)
+- [X] Elaborar uma [Documentação de Software](https://github.com/luishperna/registros_funcionarios_api_docs)
+- [ ] Desenvolver um Website para Consumir minha API.
+- [ ] Criar meu Blog.
+
 ##
 
 <h3 align="center">Tecnologias que estudo/utilizo no momento:</h3>
