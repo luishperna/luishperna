@@ -8,8 +8,6 @@
 
 <h3 align="center">:dart: Minhas metas de 2022 :dart:</h3>
 
-<img align="right" width="160" height="160" src="https://user-images.githubusercontent.com/96630233/189785817-bb3a96b1-a06d-44aa-8dbd-8135103246dc.gif">
-
 - [x] Adquirir um domínio | luishperna.com.br
 - [x] Criar meu [Website - Portfólio](https://luishperna.com.br/)
 - [X] Desenvolver uma [API](https://github.com/luishperna/registros_funcionarios_api)
