@@ -8,12 +8,12 @@
 
 <h3 align="center">:dart: Minhas metas de 2022 :dart:</h3>
 
-- [x] Adquirir um domínio | luishperna.com.br
-- [x] Criar meu [Website - Portfólio](https://luishperna.com.br/)
+- [X] Adquirir um domínio | luishperna.com.br
+- [X] Criar meu [Website - Portfólio](https://luishperna.com.br/)
 - [X] Desenvolver uma [API](https://github.com/luishperna/registros_funcionarios_api)
 - [X] Elaborar uma [Documentação de Software](https://github.com/luishperna/registros_funcionarios_api_docs)
-- [ ] Desenvolver um Website para Consumir minha API
-- [ ] Criar meu Blog
+- [X] Desenvolver utilizando um [Framework](https://github.com/luishperna/ocxerf-django)
+- [ ] Aprimorar minhas soft skills
 
 ##
 
@@ -34,12 +34,6 @@
   <img height="151em" src="https://github-readme-stats.vercel.app/api?username=luishperna&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishperna&layout=compact&langs_count=7&theme=gotham"/>
 </div>
-
-##
-
-<h3 align="center">:running: Determinação :running:</h3><br>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=luishperna&theme=gotham&hide_border=false&area=true)
 
 ##
 
