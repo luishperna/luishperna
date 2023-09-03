@@ -6,46 +6,43 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=55EAAB&size=25&center=true&vCenter=true&width=1000&lines=C%3A%5C%3Ecd+Engenharia+de+Software;C%3A%5C%3Estart+desenvolvedor-de-software.exe)](https://git.io/typing-svg)
 
-<h3 align="center">:dart: Minhas metas de 2022 :dart:</h3>
+<h4 align="center">Comprometido em transformar desafios em soluções de software, minha missão é colaborar durante os processos e aprimorar constantemente minhas habilidades, sempre visando uma melhor experiência ao usuário.</h4>
 
-- [X] Adquirir um domínio | luishperna.com.br
-- [X] Criar meu [Website - Portfólio](https://luishperna.com.br/)
-- [X] Desenvolver uma [API](https://github.com/luishperna/registros_funcionarios_api)
-- [X] Elaborar uma [Documentação de Software](https://github.com/luishperna/registros_funcionarios_api_docs)
-- [X] Desenvolver utilizando um [Framework](https://github.com/luishperna/ocxerf-django)
-- [ ] Aprimorar minhas soft skills
-
-##
-
-<h3 align="center">Tecnologias que estudo/utilizo no momento:</h3>
-
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div><br>
+---
 
 <div align="center">
-  <a href="https://github.com/luishperna">
-  <img height="151em" src="https://github-readme-stats.vercel.app/api?username=luishperna&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishperna&layout=compact&langs_count=7&theme=gotham"/>
+  <a href="https://www.luishperna.com.br" target="_blank">
+        <img src="https://img.shields.io/badge/site-luishperna.com.br-ffffff.svg?&style=for-the-badge" alt="Meu site">
+  </a>
 </div>
 
-##
+<h3 align="center">:dart: Metas para 2023+ :dart:</h3>
+
+- Buscar constantemente o aprimoramento de minhas soft/hard skills;
+- Compartilhar o conhecimento adquirido;
+- Explorar e enfrentar novos desafios;
+- Participar de eventos sobre tecnologia.
+
+#
+
+<h3 align="center">:computer: Tecnologias/Ferramentas :computer:</h3>
+
+<p align="center"><br>
+  <a href="https://github.com/luishperna">
+    <img src="https://skillicons.dev/icons?i=cs,cpp,js,php,py,html,css" /><br><br>
+    <img src="https://skillicons.dev/icons?i=dotnet,unity,arduino,nodejs,express,react,electron,tailwind,bootstrap" /><br><br>
+    <img src="https://skillicons.dev/icons?i=postgres,postman,github,git" />
+  </a>
+</p>
+
+#
 
 <h3 align="center">Contatos:</h3>
 
 <h4 align="center">luishperna@gmail.com</h4>
   
 <div align="center">
-  <a href="https://www.linkedin.com/in/luishperna/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/luishperna/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luishperna" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div align="center">
- <img alt="Snake Animation" src="https://github.com/luishperna/luishperna/blob/output/github-contribution-grid-snake.svg"/>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3e8bff&height=100&section=footer"/>
