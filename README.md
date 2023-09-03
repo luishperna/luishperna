@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://www.luishperna.com.br" target="_blank">
-        <img src="https://img.shields.io/badge/site-luishperna.com.br-ffffff.svg?&style=for-the-badge" alt="Meu site">
+        <img src="https://img.shields.io/badge/meu_site-luishperna.com.br-3e8bff.svg?&style=for-the-badge" alt="Meu site">
   </a>
 </div>
 
