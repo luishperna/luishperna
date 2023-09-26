@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=55EAAB&size=25&center=true&vCenter=true&width=1000&lines=C%3A%5C%3Ecd+Engenharia+de+Software;C%3A%5C%3Estart+desenvolvedor-de-software.exe)](https://git.io/typing-svg)
 
-<h4 align="center">Comprometido em transformar desafios em soluções de software, minha missão é colaborar durante os processos e aprimorar constantemente minhas habilidades, sempre visando uma melhor experiência ao usuário.</h4>
+<p align="center">Comprometido em transformar desafios em soluções de software, minha missão é colaborar durante os processos e aprimorar constantemente minhas habilidades, sempre visando uma melhor experiência ao usuário.</p>
 
 ---
 
@@ -39,7 +39,7 @@
 
 <h3 align="center">Contatos:</h3>
 
-<h4 align="center">luishperna@gmail.com</h4>
+<p align="center">luishperna@gmail.com</p>
   
 <div align="center">
   <a href="https://www.linkedin.com/in/luishperna" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
