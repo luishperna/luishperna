@@ -1,43 +1,43 @@
 <div align="center">
-  <img alt="Boas Vindas! Você está acessando o perfil de luishperna" src="https://user-images.githubusercontent.com/96630233/183275248-3515d424-330c-4dcc-8b8b-e1f00932dfef.png"/>
+  <img alt="Welcome! Mobile, APIs, Database, Websites and Scripts" src="https://github.com/user-attachments/assets/de62b6c4-c445-47d1-abd5-778929372606"/>
 </div>
 
-<h3 align="center">Olá! Sou o Luís Henrique, é um prazer ter você aqui.</h3>
+<h3 align="center">Hello! I'm Luís Henrique, it's a pleasure to have you here.</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=55EAAB&size=25&center=true&vCenter=true&width=1000&lines=C%3A%5C%3Ecd+Engenharia+de+Software;C%3A%5C%3Estart+desenvolvedor-de-software.exe)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3e85f1&size=25&center=true&vCenter=true&width=1000&lines=C%3A%5C%3Ecd+Engenharia+de+Software;C%3A%5C%3Estart+desenvolvedor-de-software.exe)](https://git.io/typing-svg)
 
-<p align="center">Comprometido em transformar desafios em soluções de software, minha missão é colaborar durante os processos e aprimorar constantemente minhas habilidades, sempre visando uma melhor experiência ao usuário.</p>
+<p align="center">Committed to transforming challenges into software solutions, my mission is to collaborate during processes and constantly improve my skills, always aiming for a better user experience.</p>
 
 ---
 
 <div align="center">
   <a href="https://www.luishperna.com.br" target="_blank">
-        <img src="https://img.shields.io/badge/meu_site-luishperna.com.br-3e8bff.svg?&style=for-the-badge" alt="Meu site">
+        <img src="https://img.shields.io/badge/my_website-luishperna.com.br-3e85f1.svg?&style=for-the-badge" alt="My website">
   </a>
 </div>
 
-<h3 align="center">:dart: Metas para 2023+ :dart:</h3>
+<h3 align="center">:dart: My goals :dart:</h3>
 
-- Buscar constantemente o aprimoramento de minhas soft/hard skills;
-- Compartilhar o conhecimento adquirido;
-- Explorar e enfrentar novos desafios;
-- Participar de eventos sobre tecnologia.
+- Constantly seek improvement of my soft/hard skills;
+- Share the knowledge I acquire;
+- Explore and face new challenges;
+- Participate in tech events.
 
 #
 
-<h3 align="center">:computer: Tecnologias/Ferramentas :computer:</h3>
+<h3 align="center">:computer: Technologies/Tools :computer:</h3>
 
 <p align="center"><br>
   <a href="https://github.com/luishperna">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,js,php,py,html,css" /><br><br>
-    <img src="https://skillicons.dev/icons?i=dotnet,unity,arduino,nodejs,express,react,electron,tailwind,bootstrap" /><br><br>
-    <img src="https://skillicons.dev/icons?i=postgres,postman,github,git" />
+    <img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,java,py,php,html,css" /><br><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,electron,dotnet,unity,arduino,androidstudio,tailwind,bootstrap" /><br><br>
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,firebase,postman,github,git,vscode,visualstudio,linux" />
   </a>
 </p>
 
 #
 
-<h3 align="center">Contatos:</h3>
+<h3 align="center">Contacts:</h3>
 
 <p align="center">luishperna@gmail.com</p>
   
