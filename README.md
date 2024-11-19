@@ -2,9 +2,9 @@
   <img alt="Welcome! Mobile, APIs, Database, Websites and Scripts" src="https://github.com/user-attachments/assets/de62b6c4-c445-47d1-abd5-778929372606"/>
 </div>
 
-<h3 align="center">Hello! I'm Luís Henrique, it's a pleasure to have you here.</h3>
+<h3 align="center">Hello! I'm Luís, it's a pleasure to have you here.</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3e85f1&size=25&center=true&vCenter=true&width=1000&lines=C%3A%5C%3Ecd+Engenharia+de+Software;C%3A%5C%3Estart+desenvolvedor-de-software.exe)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3e85f1&size=25&center=true&vCenter=true&width=1000&lines=Software+Engineer;Full+Stack+Developer;Mobile+Specialist)](https://git.io/typing-svg)
 
 <p align="center">Committed to transforming challenges into software solutions, my mission is to collaborate during processes and constantly improve my skills, always aiming for a better user experience.</p>
 
