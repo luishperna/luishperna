@@ -31,7 +31,7 @@
   <a href="https://github.com/luishperna">
     <img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,java,py,php,html,css" /><br><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,electron,dotnet,unity,arduino,androidstudio,tailwind,bootstrap" /><br><br>
-    <img src="https://skillicons.dev/icons?i=postgres,sqlite,firebase,postman,github,git,vscode,visualstudio,linux" />
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,firebase,postman,jest,github,git,vscode,visualstudio,linux" />
   </a>
 </p>
 
